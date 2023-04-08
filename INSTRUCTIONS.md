@@ -15,7 +15,7 @@ Abra o terminal e navegue até o diretório onde você deseja salvar o projeto. 
 
 	cd tap-analisador
 
-##### [3] – Digite esse comando para rodar o projeto no terminal.
+##### [3] – Digite esses comandos para rodar o projeto no terminal ou rode na IDE de sua escolha.
 	
 	mkdir bin
 	javac -d bin src/com/github/ssferraz/tap_analisador/Main.java
